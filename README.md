@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey there 👋, I'm Paurush Solanki
 
-<!--
-**Paurushsolanki/PaurushSolanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Tech Entrepreneur | AI Innovator | No-Code Builder | Vision: Empower 1 Billion People**
 
-Here are some ideas to get you started:
+I build **AI-powered, scalable, and impact-driven products** that solve real-world problems — especially for the next billion users in India 🇮🇳.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Founder of:
+- **KaamNow ** – Hyperlocal jobs + skills platform
+- **Bhasha.AI** – Voice-based AI assistant in Indian local languages
+- **RozgaarBox** – AI-powered local jobs + skills hub
+
+📍 Currently working on gig marketplaces, AI learning tools, and no-code ecosystems.
+
+---
+
+## 🚀 Skills & Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, SQL
+- **AI/ML:** OpenAI, LangChain, HuggingFace, TensorFlow
+- **No-Code Tools:** Bubble, Glide, Zapier, Make, Google Sheets
+- **Cloud:** AWS, Firebase, Supabase
+- **Other:** REST APIs, Webhooks, Automation
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paurushsolanki&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paurushsolanki&layout=compact&theme=radical)
+
+---
+
+
+---
+
+## ✨ Fun Fact
+I believe AI + Human Creativity can solve 90% of real-world problems.
