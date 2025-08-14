@@ -5,9 +5,9 @@
 I build **AI-powered, scalable, and impact-driven products** that solve real-world problems — especially for the next billion users in India 🇮🇳.
 
 💡 Founder of:
-- **KaamNow ** – Hyperlocal jobs + skills platform
-- **Bhasha.AI** – Voice-based AI assistant in Indian local languages
-- **RozgaarBox** – AI-powered local jobs + skills hub
+- KaamNow 
+- Bhasha.AI 
+- RozgaarBox
 
 📍 Currently working on gig marketplaces, AI learning tools, and no-code ecosystems.
 
